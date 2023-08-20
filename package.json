@@ -1,0 +1,24 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "pcat photo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selimaynigul/patika.dev-PCAT-project.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Selim Aynigül",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selimaynigul/patika.dev-PCAT-project/issues"
+  },
+  "homepage": "https://github.com/selimaynigul/patika.dev-PCAT-project#readme"
+}
